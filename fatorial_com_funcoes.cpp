@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 /*
-Elabore um algoritmo que leia um numero inteiro entre 1 e 10, calcule e mostre o seu fatorial. Para tanto, implemente duas funções: 1 validarNumero: recebe o número e retorna true se for válido e false se não for. 2 calcularFat: recebe o número e calcula o seu fatorial.
+Elabore um algoritmo que leia um numero inteiro entre 1 e 10, calcule e mostre o seu fatorial. Para tanto, implemente duas funções: 
+1 - validarNumero: recebe o número e retorna true se for válido e false se não for. 
+2 - calcularFat: recebe o número e calcula o seu fatorial.
 */
 bool validarNumero(int num);
 int calcularFat(int num);
